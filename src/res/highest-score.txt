@@ -1,0 +1,5 @@
+LEVEL 1 : 22
+LEVEL 2 : 22
+LEVEL 3 : 22
+LEVEL 4 : 0
+LEVEL 5 : 0
